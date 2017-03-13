@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">P4StreamsThreaded</string>
+    <string name="ViewInputButton">View Input</string>
+    <string name="ViewOutputButton">View Output</string>
+</resources>

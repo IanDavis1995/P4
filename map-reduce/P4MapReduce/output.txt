@@ -1,0 +1,5 @@
+the: 189
+a: 67
+is: 63
+of: 63
+textalign: 61

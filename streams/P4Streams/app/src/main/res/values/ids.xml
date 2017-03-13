@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="view_input_button" type="id">view_input_button</item>
+    <item name="view_output_button" type="id">view_output_button</item>
+    <item name="view_input_text" type="id">view_input_text</item>
+    <item name="view_output_text" type="id">view_output_text</item>
+</resources>

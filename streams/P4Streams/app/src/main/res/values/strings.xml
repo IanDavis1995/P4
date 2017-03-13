@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">P4 Streams</string>
+    <string name="ViewInputButton">View Input Data</string>
+    <string name="ViewOutputButton">View Output Data</string>
+</resources>
